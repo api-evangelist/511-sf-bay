@@ -1,0 +1,77 @@
+{
+    "name": "511 SF Bay",
+    "description": "511 is your one-stop phone and web source for up-to-the-minute Bay Area traffic, transit, carpool, bicycling, and parking information. It's FREE and available whenever you need it \u2013 24 hours a day, 7 days a week \u2013 from anywhere in the nine-county Bay Area. Call 511 or visit 511.org.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo_511_128x128_400x400.jpg",
+    "tags": [
+        "511",
+        "api provider",
+        "city government",
+        "have api",
+        "new",
+        "no api definition",
+        "postman collections"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/511-sf-bay\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "511 SF Bay",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo_511_128x128_400x400.jpg",
+            "humanURL": "http:\/\/www.511.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/511-sf-bay-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/511-sf-bay-postman-collection.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/511-sf-bay-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
+        {
+            "type": "Branding",
+            "url": "https:\/\/511.org\/about\/branding-logos"
+        },
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/511.org\/about\/feedback"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/511.org\/about\/faq"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/511.org\/about\/partners"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/511.org\/about\/privacy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/511SFBay"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.511.org\/"
+        }
+    ]
+}
