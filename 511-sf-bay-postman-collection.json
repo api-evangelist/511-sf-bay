@@ -1,5 +1,5 @@
 {
-    "id": "b90acef9d0054da4914372b8fd0e704d",
+    "id": "3e94a631183ab666a7cf70e9fe494641",
     "name": "511 SF Bay",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "c8fbad96188e3aa9371336b08f8ebe16",
+            "id": "95a32a6383cfb82f8955b3a8ffaaaebe",
             "name": "Traffic Events",
             "url": "http:\/\/api.511.org\/traffic\/events?api_key={{511_sf_bay_key}}",
             "description": "Provides all active and planned incidents and events on all major highways in the nine county San Francisco Bay Area.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "297f59f3fe4fb02a6957c7e6640a5699",
+            "id": "f6f3b38cab9842dc498562ce63eafec5",
             "name": "Holidays",
             "url": "http:\/\/api.511.org\/transit\/holidays?api_key={{511_sf_bay_key}}&operator_id={{operator_id}}",
             "description": "The AvailabilityCondition structure is the main element of the contentValidityConditions collection.\nEvery exception\/holiday date defined by the agency is provided as an AvailabilityCondition element",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "8284aa2a008ecb9461b011c903a2d30c",
+            "id": "bcf19f0390865a4df47196bd3e25ead5",
             "name": "GTFS Service Alerts",
             "url": "http:\/\/api.511.org\/transit\/servicealerts?api_key={{511_sf_bay_key}}",
             "description": "A GTFS dataset for Service Alerts. Service Alerts allow you to provide updates whenever there is\ndisruption on the network. ",
@@ -106,11 +106,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "f3366da3d642efb6b683ef2c3ab9d45c",
+            "id": "81c5d82cd6f2e758e524e5fbc9a8f5cf",
             "name": "General Announcements",
             "url": "http:\/\/api.511.org\/transit\/GeneralAnnouncements?api_key={{511_sf_bay_key}}",
             "description": "Siri General Messaging Service provides a structured way to exchange arbitrary informative messages\nbetween participants, such as travel news, or operational advice.",
@@ -137,11 +137,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "d74324caccd7db92eadf0bc8acb0ad6b",
+            "id": "49222e60217294de0f84d9eff83b4a80",
             "name": "Transit Announcements",
             "url": "http:\/\/api.511.org\/transit\/transitannouncements?api_key={{511_sf_bay_key}}",
             "description": "Announcement is completely SIRI entity; it is a description of a situation\/condition about the public\ntransport. Announcement consists of Situations which is collection of PtSituationElement which contains\ndescription of situation\/condition, at least one PtSituationElement is mandatory",
@@ -168,11 +168,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "c11c407e6787078ed51de7f9def524ac",
+            "id": "cc4821bc800642f9c6d268343009c8b9",
             "name": "Stops",
             "url": "http:\/\/api.511.org\/transit\/stops?api_key={{511_sf_bay_key}}&operator_id=SF",
             "description": "The Stops API returns the list of stops where passengers can board or alight from vehicles. It returns the stop id, name and location information for the stops.",
@@ -206,11 +206,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "2e6e31c505a44b3433dca021161ca85e",
+            "id": "7ec6c85e16acd5fe5a3bb4aedfe1c826",
             "name": "Real-time Vehicle Monitoring (SIRI)",
             "url": "http:\/\/api.511.org\/transit\/VehicleMonitoring?api_key={{511_sf_bay_key}}&agency={{operator_id}}",
             "description": "The Operators API provides a list of the transit operators along with the operator information such as the operator ID, name and contact. The response is provided in XML and JSON formats.",
@@ -244,11 +244,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "608bdf6eac3b7d3fbb3f9b7bff794243",
+            "id": "a63a9a0b18884062b1a5ea4725019080",
             "name": "Timetable",
             "url": "http:\/\/api.511.org\/transit\/timetable?api_key={{511_sf_bay_key}}&operator_id={{operator_id}}&line_id={{line_id}}",
             "description": "Timetable is coherent set of timetable data which consist of vehicle Journeys and blocks to which\nthe same validity condition has been assigned. ",
@@ -310,11 +310,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "5bfbd6e2de31fc6ae32a510fd5cfdc07",
+            "id": "78c6e4182a03362b5a4f1d29474c3804",
             "name": "GTFS-Realtime Trip Updates",
             "url": "http:\/\/api.511.org\/transit\/vehiclepositions?api_key={{511_sf_bay_key}}&agency={{operation_id}}",
             "description": "GTFS-Realtime Trip Updates provides real-time updates on the expected arrival and departure times for an agency in the Protocol Buffer format.",
@@ -348,11 +348,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "4bad8a6e20359ac6f0edb4501f143742",
+            "id": "ab7d4c1f1a489d81c67120eedbb15479",
             "name": "Real-time predictions at a Stop",
             "url": "http:\/\/api.511.org\/transit\/StopMonitoring?api_key={{511_sf_bay_key}}&agency={{operator_id}}",
             "description": "Siri Stop Monitoring service provides current and forthcoming vehicles arrivals and departures at a stop.",
@@ -386,11 +386,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "01b9fb67a2b884186b4322dec7f5d888",
+            "id": "6c384feb8c7181df700fdd8f61502623",
             "name": "Operators",
             "url": "http:\/\/api.511.org\/transit\/operators\/?api_key={{511_sf_bay_key}}",
             "description": "The Operators API provides a list of the transit operators along with the operator information such as the operator ID, name and contact. The response is provided in XML and JSON formats.",
@@ -417,11 +417,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "4a3ab0db3e4e114998fee8a35ae79e80",
+            "id": "d2f8d4dea372cd507fed4276bb4fd2aa",
             "name": "Patterns",
             "url": "http:\/\/api.511.org\/transit\/patterns?api_key={{511_sf_bay_key}}&operator_id={{operator_id}}&pattern_id=151834",
             "description": "The Patterns API returns a list of patterns for a given route\/line. A pattern is an ordered list of stop points and time points and it describes a trip pattern followed by the public transport vehicle.",
@@ -462,11 +462,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "8489172a419466dad4ae18013d224ce3",
+            "id": "756b313a7bebf099d2614994a8021503",
             "name": "Route Timetable (NeTEx)",
             "url": "http:\/\/api.511.org\/transit\/stoptimetable?api_key={{511_sf_bay_key}}",
             "description": "The Scheduled Departures at a Stop API (also known as SIRI Stop Timetable) provides all the scheduled departures and arrivals at a stop within a given window of time.",
@@ -507,11 +507,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "a12eddb64f856aabf8dd2ea37fbf65ff",
+            "id": "348e88028de7175ce87025292e7e4d30",
             "name": "GTFS Feed Download",
             "url": "http:\/\/api.511.org\/transit\/datafeeds?api_key={{511_sf_bay_key}}&operator_id={{operation_id}}",
             "description": "GTFS Feed Download allows the user to download a zip file containing GTFS dataset for the specified operator\/agency. It also contains additional files, called the GTFS+ files, that provide information not contained in the GTFS files such as the direction names, fare zone names, etc.",
@@ -545,11 +545,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "6611466830a039470c1e103d6b14e6a6",
+            "id": "6d70ada4a27b5b4ea52c22a96d8c4332",
             "name": "LInes",
             "url": "http:\/\/api.511.org\/transit\/lines?api_key={{511_sf_bay_key}}&operator_id={{operator_id}}",
             "description": "The Lines API provides the list of routes serviced by a transit agency. It provides route id, name, mode of transport and other details. The response is provided in XML and JSON formats.",
@@ -583,11 +583,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "09b8bac3abc5d1d954dcf65ecccf6ce6",
+            "id": "b8819497666653bfab86cc4ff5e9b750",
             "name": "GTFS-Realtime Vehicle Positions",
             "url": "http:\/\/api.511.org\/Transit\/VehiclePositions?api_key={{511_sf_bay_key}}&agency={{operator_id}}",
             "description": "GTFS-realtime Vehicle Positions service prodices realtime information about the vehicles including\nlocation and congestion level.",
@@ -621,11 +621,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "c5cfe5e37e9a8526035a3f93f9778856",
+            "id": "0136c9d9c5a1cf999bacc190abe42ed5",
             "name": " GTFS-Realtime Trip Updates",
             "url": "http:\/\/api.511.org\/Transit\/TripUpdates?api_key={{511_sf_bay_key}}&agency={{operator_id}}",
             "description": "GTFS-realtime Trip Updates service provides realtime update on the progress of the vehicles along a\ntrip.",
@@ -659,11 +659,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "04faa2251997b9c2e82fd765507829c3",
+            "id": "dead20a45a06abe992ba07e2c47992d3",
             "name": "Stop Places",
             "url": "http:\/\/api.511.org\/transit\/stopplaces?api_key={{511_sf_bay_key}}&operator_id={{operator_id}}",
             "description": "The Stop Places API returns the list of physical stops for an agency and includes a more detailed information about the stop.",
@@ -697,11 +697,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "32248debebed613544ea31a48a7fc375",
+            "id": "445f463446af5239ef37f791280fc34b",
             "name": "Transit Scheduled Departures for a Stop",
             "url": "http:\/\/api.511.org\/transit\/stoptimetable?api_key={{511_sf_bay_key}}&MonitoringRef={{stop_id}}&OperatorRef={{operator_id}}",
             "description": "SIRI Stop Timetable service provides static\/scheduled timetables in the system for a particular stop.\nAmessage structure of Transit Scheduled Departures in SIRI ST (Stop Timetable) format.",
@@ -742,11 +742,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "1a4337debf1483091113caaa16f7c798",
+            "id": "5edf4a58e09eb9359c944b4c82f94c22",
             "name": "GTFS Operators",
             "url": "http:\/\/api.511.org\/transit\/gtfsoperators?api_key={{511_sf_bay_key}}",
             "description": "GTFS Operators provides the list of transit operators\/agencies that have a GTFS dataset available for download. It provides the operator\u2019s ID, name, and the date the operator\u2019s feed was last updated.",
@@ -773,11 +773,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         },
         {
-            "id": "dc66dab88cdc7268f29036b75c6201a1",
+            "id": "4bf5a3c5732616486bbde5753b944053",
             "name": "Real-time Stop Monitoring",
             "url": "http:\/\/api.511.org\/transit\/real-time-stop-monitoring\/?api_key={{511_sf_bay_key}}",
             "description": "Real-time Stop Monitoring API provides the expected arrival and departure times of vehicles at a stop in XML and JSON formats.",
@@ -804,7 +804,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "b90acef9d0054da4914372b8fd0e704d",
+            "collectionId": "3e94a631183ab666a7cf70e9fe494641",
             "rawModeData": ""
         }
     ]
